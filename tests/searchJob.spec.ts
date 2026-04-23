@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { DeallsPage } from '../pages/DeallsPage';
 
-test('Save Job', async ({page}, testInfo) =>{
+test('Search Job', async ({page}, testInfo) =>{
     const deallsPage = new DeallsPage(page)
 
     await test.step('Visit dealls page', async () => {  
@@ -9,9 +9,8 @@ test('Save Job', async ({page}, testInfo) =>{
         await deallsPage.validateIsDealls()
     })
 
-    await test.step('Save Job', async () => {
+    await test.step('Search and Validate Job', async () => {
         await deallsPage.searchJob("software engineer")
-        await deallsPage.clickSaveJob()
-        await deallsPage.validateSavedJob()
+        await deallsPage.validateSearchResults("software engineer")
     })
 })

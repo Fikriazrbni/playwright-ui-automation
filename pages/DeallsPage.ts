@@ -20,6 +20,7 @@ export class DeallsPage {
     readonly savedJobProfileDetail: Locator;
     readonly savedJobList: Locator;
     readonly textJobRelatedToSearch: Locator;
+    readonly searchResultJobTitles: Locator;
     savedJobTitle: string = '';
 
     constructor(page: Page) {
@@ -40,6 +41,7 @@ export class DeallsPage {
         this.savedJobProfileDetail = page.locator('xpath=//*[@id="__next"]//*[contains(text(), "Pekerjaan Tersimpan")]')
         this.savedJobList = page.locator('xpath=//*[@id="__next"]//div[@class= "relative"]/a/div[2]/div[1]')
         this.textJobRelatedToSearch = page.locator('xpath=//*[@id="__next"]//div[contains(text(), "Jobs related to")]')
+        this.searchResultJobTitles = page.locator('xpath=//*[@id="jobs-container"]/a//h2')
     }
 
     async waitForLoad() {
@@ -79,9 +81,9 @@ export class DeallsPage {
     }
 
     async clickSaveJob() {
-        await this.jobName.waitFor()
-        await this.saveJobBtn.click()
-        this.savedJobTitle = await this.jobName.innerText()
+        await this.jobName.first().waitFor()
+        await this.saveJobBtn.first().click()
+        this.savedJobTitle = await this.jobName.first().innerText()
     }
 
     async getSavedJobTitles(): Promise<string[]> {
@@ -101,6 +103,15 @@ export class DeallsPage {
         await this.myProfileBtn.click()
         await this.savedJobProfileDetail.click()
         await this.validateSavedJobContains(this.savedJobTitle);
+    }
+
+    async validateSearchResults(keyword: string) {
+        await this.searchResultJobTitles.first().waitFor();
+        const titles = await this.searchResultJobTitles.allInnerTexts();
+        test.info().annotations.push({ type: 'info', description: `Search results: ${titles.join(', ')}` });
+        for (const title of titles) {
+            expect(title.toLowerCase(), `"${title}" does not contain "${keyword}"`).toContain(keyword.toLowerCase());
+        }
     }
 
     async openDealls() {

@@ -29,7 +29,7 @@ export default defineConfig({
       testMatch: ['**/loginDealls.spec.ts', '**/searchYoutube.spec.ts'],
       use: {
         ...devices['Desktop Chrome'],
-        headless: false,
+        headless: !!process.env.CI,
       },
     },
     {
@@ -37,7 +37,7 @@ export default defineConfig({
       testIgnore: ['**/loginDealls.spec.ts', '**/searchYoutube.spec.ts'],
       use: {
         ...devices['Desktop Chrome'],
-        headless: false,
+        headless: !!process.env.CI,
         storageState: 'test-results/.auth/user.json',
       },
       dependencies: ['setup'],

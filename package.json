@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "download:sertifikat": "ts-node scripts/downloadSertifikat.ts"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +15,7 @@
     "@playwright/test": "^1.59.1",
     "@types/node": "^25.6.0",
     "dotenv": "^17.4.2",
+    "ts-node": "^10.9.2",
     "typescript": "^6.0.2"
   }
 }

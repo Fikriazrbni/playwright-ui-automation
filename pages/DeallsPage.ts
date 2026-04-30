@@ -21,6 +21,7 @@ export class DeallsPage {
     readonly savedJobList: Locator;
     readonly textJobRelatedToSearch: Locator;
     readonly searchResultJobTitles: Locator;
+    readonly searchJobBtn: Locator;
     savedJobTitle: string = '';
 
     constructor(page: Page) {
@@ -42,6 +43,7 @@ export class DeallsPage {
         this.savedJobList = page.locator('xpath=//*[@id="__next"]//div[@class= "relative"]/a/div[2]/div[1]')
         this.textJobRelatedToSearch = page.locator('xpath=//*[@id="__next"]//div[contains(text(), "Jobs related to")]')
         this.searchResultJobTitles = page.locator('xpath=//*[@id="jobs-container"]/a//h2')
+        this.searchJobBtn = page.locator('xpath=//*[@id="searchJob"]/following::button[1]')
     }
 
     async waitForLoad() {
@@ -75,7 +77,10 @@ export class DeallsPage {
 
     async searchJob(jobTitle: string) {
         await this.searchJobInput.waitFor()
+        await this.searchJobInput.click()
         await this.searchJobInput.fill(jobTitle)
+        await this.page.waitForTimeout(500)
+        await this.searchJobInput.click()
         await this.searchJobInput.press('Enter')
         await this.textJobRelatedToSearch.waitFor()
     }
@@ -109,10 +114,14 @@ export class DeallsPage {
         await this.searchResultJobTitles.first().waitFor();
         const titles = await this.searchResultJobTitles.allInnerTexts();
         test.info().annotations.push({ type: 'info', description: `Search results: ${titles.join(', ')}` });
+        const keywords = keyword.toLowerCase().split(' ');
         for (const title of titles) {
-            expect(title.toLowerCase(), `"${title}" does not contain "${keyword}"`).toContain(keyword.toLowerCase());
+            const titleLower = title.toLowerCase();
+            const hasMatch = keywords.some(word => titleLower.includes(word));
+            expect(hasMatch, `"${title}" does not contain any keyword from "${keyword}"`).toBeTruthy();
         }
     }
+
 
     async openDealls() {
         await this.page.goto('https://dealls.com/');

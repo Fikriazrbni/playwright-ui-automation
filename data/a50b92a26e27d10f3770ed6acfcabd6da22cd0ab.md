@@ -185,7 +185,7 @@ Call log:
                   - generic: Paling relevan
         - heading "Pekerjaan terkait \"software engineer\"" [level=2] [ref=e178]
         - generic [ref=e180]:
-          - link "Logo PT Avia Avian Tbk. (Avian Brands) IT Software Engineer Staff PT Avia Avian Tbk. (Avian Brands) Penuh waktu On-site • Surabaya Min. Fresh Grad Tidak Ditampilkan Rekruter aktif 18j lalu" [ref=e181] [cursor=pointer]:
+          - link "Logo PT Avia Avian Tbk. (Avian Brands) IT Software Engineer Staff PT Avia Avian Tbk. (Avian Brands) Penuh waktu On-site • Surabaya Min. Fresh Grad Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e181] [cursor=pointer]:
             - /url: /loker/it-software-engineer-staff~pt-avia-avian-tbk-avian-brands
             - generic [ref=e182]:
               - generic [ref=e183]:
@@ -211,8 +211,8 @@ Call log:
                   - generic [ref=e211]:
                     - img [ref=e212]
                     - generic [ref=e217]: Tidak Ditampilkan
-              - generic [ref=e219]: Rekruter aktif 18j lalu
-          - link "Logo PT Ultra Sakti Software Engineer PT Ultra Sakti Penuh waktu On-site • Jakarta Min. 1-3 Years Experience Tidak Ditampilkan Rekruter aktif 16j lalu" [ref=e220] [cursor=pointer]:
+              - generic [ref=e219]: Rekruter aktif 2h lalu
+          - link "Logo PT Ultra Sakti Software Engineer PT Ultra Sakti Penuh waktu On-site • Jakarta Min. 1-3 Years Experience Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e220] [cursor=pointer]:
             - /url: /loker/software-engineer-41~pt-ultra-sakti-1
             - generic [ref=e221]:
               - generic [ref=e222]:
@@ -238,8 +238,8 @@ Call log:
                   - generic [ref=e250]:
                     - img [ref=e251]
                     - generic [ref=e256]: Tidak Ditampilkan
-              - generic [ref=e258]: Rekruter aktif 16j lalu
-          - link "Logo PT Esensi Solusi Buana (ESB) Software Engineer Fullstack (Order Management) PT Esensi Solusi Buana (ESB) Penuh waktu Hybrid • Tangerang Regency Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 17j lalu" [ref=e259] [cursor=pointer]:
+              - generic [ref=e258]: Rekruter aktif 2h lalu
+          - link "Logo PT Esensi Solusi Buana (ESB) Software Engineer Fullstack (Order Management) PT Esensi Solusi Buana (ESB) Penuh waktu Hybrid • Tangerang Regency Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e259] [cursor=pointer]:
             - /url: /loker/software-engineer-fullstack-order-management~esb
             - generic [ref=e260]:
               - generic [ref=e261]:
@@ -263,8 +263,8 @@ Call log:
                   - generic [ref=e287]:
                     - img [ref=e288]
                     - generic [ref=e293]: Tidak Ditampilkan
-              - generic [ref=e295]: Rekruter aktif 17j lalu
-          - link "Logo PT Esensi Solusi Buana (ESB) Software Engineer Fullstack (POS & ERP) PT Esensi Solusi Buana (ESB) Penuh waktu Hybrid • Tangerang Regency Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 17j lalu" [ref=e296] [cursor=pointer]:
+              - generic [ref=e295]: Rekruter aktif 2h lalu
+          - link "Logo PT Esensi Solusi Buana (ESB) Software Engineer Fullstack (POS & ERP) PT Esensi Solusi Buana (ESB) Penuh waktu Hybrid • Tangerang Regency Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e296] [cursor=pointer]:
             - /url: /loker/software-fullstack-engineer-pos-and~esb
             - generic [ref=e297]:
               - generic [ref=e298]:
@@ -288,8 +288,8 @@ Call log:
                   - generic [ref=e324]:
                     - img [ref=e325]
                     - generic [ref=e330]: Tidak Ditampilkan
-              - generic [ref=e332]: Rekruter aktif 17j lalu
-          - link "Logo AmIT Global Solutions Software Engineer (Backend) . NET AmIT Global Solutions Penuh waktu On-site • Jakarta Timur Min. 3-5 Years Experience Rp8.000.000 – 12.000.000 Rekruter aktif 19j lalu" [ref=e333] [cursor=pointer]:
+              - generic [ref=e332]: Rekruter aktif 2h lalu
+          - link "Logo AmIT Global Solutions Software Engineer (Backend) . NET AmIT Global Solutions Penuh waktu On-site • Jakarta Timur Min. 3-5 Years Experience Rp8.000.000 – 12.000.000 Rekruter aktif 2h lalu" [ref=e333] [cursor=pointer]:
             - /url: /loker/software-engineer-backend-net~amit-global-solutions
             - generic [ref=e334]:
               - generic [ref=e335]:
@@ -315,8 +315,8 @@ Call log:
                   - generic [ref=e363]:
                     - img [ref=e364]
                     - generic [ref=e369]: Rp8.000.000 – 12.000.000
-              - generic [ref=e371]: Rekruter aktif 19j lalu
-          - link "Logo PT. Inovasi Anak Indonesia - PARKEE Software Development Engineer in Test PT. Inovasi Anak Indonesia - PARKEE Kontrak On-site • Jakarta Pusat Min. Fresh Grad Tidak Ditampilkan Rekruter aktif 18j lalu" [ref=e372] [cursor=pointer]:
+              - generic [ref=e371]: Rekruter aktif 2h lalu
+          - link "Logo PT. Inovasi Anak Indonesia - PARKEE Software Development Engineer in Test PT. Inovasi Anak Indonesia - PARKEE Kontrak On-site • Jakarta Pusat Min. Fresh Grad Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e372] [cursor=pointer]:
             - /url: /loker/software-development-engineer-in-test-8~pt-inovasi-anak-indonesia-parkee
             - generic [ref=e373]:
               - generic [ref=e374]:
@@ -342,8 +342,8 @@ Call log:
                   - generic [ref=e402]:
                     - img [ref=e403]
                     - generic [ref=e408]: Tidak Ditampilkan
-              - generic [ref=e410]: Rekruter aktif 18j lalu
-          - link "Logo IDEKU Senior Software Quality Assurance Engineer IDEKU Penuh waktu Hybrid • Jakarta Min. 5+ Years Experience Tidak Ditampilkan Rekruter aktif 19j lalu" [ref=e411] [cursor=pointer]:
+              - generic [ref=e410]: Rekruter aktif 2h lalu
+          - link "Logo IDEKU Senior Software Quality Assurance Engineer IDEKU Penuh waktu Hybrid • Jakarta Min. 5+ Years Experience Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e411] [cursor=pointer]:
             - /url: /loker/senior-software-quality-assurance-engineer-1~ideku
             - generic [ref=e412]:
               - generic [ref=e413]:
@@ -369,8 +369,8 @@ Call log:
                   - generic [ref=e441]:
                     - img [ref=e442]
                     - generic [ref=e447]: Tidak Ditampilkan
-              - generic [ref=e449]: Rekruter aktif 19j lalu
-          - link "Logo Ukirama Fullstack Software Engineer Ukirama Penuh waktu On-site • Jakarta Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 19j lalu" [ref=e450] [cursor=pointer]:
+              - generic [ref=e449]: Rekruter aktif 2h lalu
+          - link "Logo Ukirama Fullstack Software Engineer Ukirama Penuh waktu On-site • Jakarta Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e450] [cursor=pointer]:
             - /url: /loker/fullstack-software-engineer~ukirama
             - generic [ref=e451]:
               - generic [ref=e452]:
@@ -396,8 +396,8 @@ Call log:
                   - generic [ref=e480]:
                     - img [ref=e481]
                     - generic [ref=e486]: Tidak Ditampilkan
-              - generic [ref=e488]: Rekruter aktif 19j lalu
-          - link "Logo PT Sentra Vidya Utama (SEVIMA) Software Quality Assurance Engineer (Surabaya) PT Sentra Vidya Utama (SEVIMA) Penuh waktu On-site • Surabaya Min. 1-3 Years Experience Rp7.000.000 – 9.500.000 Rekruter aktif 7h lalu" [ref=e489] [cursor=pointer]:
+              - generic [ref=e488]: Rekruter aktif 2h lalu
+          - link "Logo PT Sentra Vidya Utama (SEVIMA) Software Quality Assurance Engineer (Surabaya) PT Sentra Vidya Utama (SEVIMA) Penuh waktu On-site • Surabaya Min. 1-3 Years Experience Rp7.000.000 – 9.500.000 Rekruter aktif 18j lalu" [ref=e489] [cursor=pointer]:
             - /url: /loker/software-quality-assurance-engineer-surabaya~pt-sentra-vidya-utama-sevima
             - generic [ref=e490]:
               - generic [ref=e491]:
@@ -423,8 +423,8 @@ Call log:
                   - generic [ref=e519]:
                     - img [ref=e520]
                     - generic [ref=e525]: Rp7.000.000 – 9.500.000
-              - generic [ref=e527]: Rekruter aktif 7h lalu
-          - link "Logo Dexa Group Software Engineer (Middle/Senior) Dexa Group Penuh waktu On-site • Tangerang Selatan Min. 1-3 Years Experience Tidak Ditampilkan Rekruter aktif 18j lalu" [ref=e528] [cursor=pointer]:
+              - generic [ref=e527]: Rekruter aktif 18j lalu
+          - link "Logo Dexa Group Software Engineer (Middle/Senior) Dexa Group Penuh waktu On-site • Tangerang Selatan Min. 1-3 Years Experience Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e528] [cursor=pointer]:
             - /url: /loker/software-engineer-juniormiddlesenior-1~dexa-group
             - generic [ref=e529]:
               - generic [ref=e530]:
@@ -450,8 +450,8 @@ Call log:
                   - generic [ref=e558]:
                     - img [ref=e559]
                     - generic [ref=e564]: Tidak Ditampilkan
-              - generic [ref=e566]: Rekruter aktif 18j lalu
-          - link "Logo Mitramas Infosys Global Software Engineer (Golang) Mitramas Infosys Global Kontrak Hybrid • Jakarta Selatan Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 14j lalu" [ref=e567] [cursor=pointer]:
+              - generic [ref=e566]: Rekruter aktif 2h lalu
+          - link "Logo Mitramas Infosys Global Software Engineer (Golang) Mitramas Infosys Global Kontrak Hybrid • Jakarta Selatan Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 15j lalu" [ref=e567] [cursor=pointer]:
             - /url: /loker/software-engineer-golang-1~mitramas-infosys-global
             - generic [ref=e568]:
               - generic [ref=e569]:
@@ -477,12 +477,12 @@ Call log:
                   - generic [ref=e597]:
                     - img [ref=e598]
                     - generic [ref=e603]: Tidak Ditampilkan
-              - generic [ref=e605]: Rekruter aktif 14j lalu
+              - generic [ref=e605]: Rekruter aktif 15j lalu
         - generic [ref=e606]:
           - separator [ref=e607]
           - heading "Pekerjaan yang membutuhkan \"software engineer\" sebagai keahlian" [level=2] [ref=e608]
           - generic [ref=e610]:
-            - link "Logo Mitra Cakra Digital IT Solution Architect Mitra Cakra Digital Kontrak On-site • Bogor Regency Min. 5+ Years Experience Tidak Ditampilkan Rekruter aktif 19j lalu" [ref=e611] [cursor=pointer]:
+            - link "Logo Mitra Cakra Digital IT Solution Architect Mitra Cakra Digital Kontrak On-site • Bogor Regency Min. 5+ Years Experience Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e611] [cursor=pointer]:
               - /url: /loker/it-solution-architect-1~mitra-cakra-digital
               - generic [ref=e612]:
                 - generic [ref=e613]:
@@ -506,8 +506,8 @@ Call log:
                     - generic [ref=e639]:
                       - img [ref=e640]
                       - generic [ref=e645]: Tidak Ditampilkan
-                - generic [ref=e647]: Rekruter aktif 19j lalu
-            - link "Logo PT Pratama Abadi Industri 2nd Process Pattern Engineering PT Pratama Abadi Industri Penuh waktu On-site • Tangerang Selatan Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e648] [cursor=pointer]:
+                - generic [ref=e647]: Rekruter aktif 2h lalu
+            - link "Logo PT Pratama Abadi Industri 2nd Process Pattern Engineering PT Pratama Abadi Industri Penuh waktu On-site • Tangerang Selatan Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 3h lalu" [ref=e648] [cursor=pointer]:
               - /url: /loker/2nd-process-pattern-engineering-1~pt-pratama-abadi-industri
               - generic [ref=e649]:
                 - generic [ref=e650]:
@@ -533,8 +533,8 @@ Call log:
                     - generic [ref=e678]:
                       - img [ref=e679]
                       - generic [ref=e684]: Tidak Ditampilkan
-                - generic [ref=e686]: Rekruter aktif 2h lalu
-            - link "Logo PT Esensi Solusi Buana (ESB) Software Engineer Fullstack (POS & ERP) PT Esensi Solusi Buana (ESB) Penuh waktu Hybrid • Tangerang Regency Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 17j lalu" [ref=e687] [cursor=pointer]:
+                - generic [ref=e686]: Rekruter aktif 3h lalu
+            - link "Logo PT Esensi Solusi Buana (ESB) Software Engineer Fullstack (POS & ERP) PT Esensi Solusi Buana (ESB) Penuh waktu Hybrid • Tangerang Regency Min. 3-5 Years Experience Tidak Ditampilkan Rekruter aktif 2h lalu" [ref=e687] [cursor=pointer]:
               - /url: /loker/software-fullstack-engineer-pos-and~esb
               - generic [ref=e688]:
                 - generic [ref=e689]:
@@ -558,7 +558,7 @@ Call log:
                     - generic [ref=e715]:
                       - img [ref=e716]
                       - generic [ref=e721]: Tidak Ditampilkan
-                - generic [ref=e723]: Rekruter aktif 17j lalu
+                - generic [ref=e723]: Rekruter aktif 2h lalu
     - contentinfo [ref=e724]:
       - generic [ref=e725]:
         - generic [ref=e726]:
